@@ -1,5 +1,29 @@
 # Digital Appendix
 
+## A0. Theoretical Framework of Problem Behavior Diagnosis
+
+|  | Category | Subcategory |
+|--|----------|-------------|
+| **Problem Behaviors** | Aggressive Behavior | Physical Aggression, Verbal Aggression, Relational Aggression |
+|  | Rule-Breaking Behavior | Non-Disturbing Discipline Violation in Class, Disturbing Discipline Violation in Class, Discipline Violation Outside Class |
+|  | Delinquent Behavior | Lying Behavior, Stealing Behavior, Immoral Behavior |
+|  | Social Withdrawal | Verbal Withdrawal, Behavioral Withdrawal, Psychological Withdrawal |
+|  | Emotional Problem | Depression, Anxiety |
+|  | Learning Problem | Learning Ability Problem, Learning Method Problem, Learning Attitude Problem, Attention Problem |
+|  | Egocentricity | Self-Bragging, Stubbornness, Selfishness |
+|  | Special Problem | Addiction, Puppy Love, Extreme Behavior |
+| **Influencing Factors** | Family Background | Family Structure, Parenting Style, Family Atmosphere, Education Background, Medical Condition, Delinquent Behaviors, Socioeconomic Status |
+|  | School Environment | Teacher Leadership, Peer Acceptance |
+|  | Socioculture | Mass Media, Cultural Custom |
+|  | Personality | Gender, Grade, Health Condition, Social Group |
+| **Psychological Needs** | Physiological Needs | Difficulty in Emotion Control, Pathologic Problem |
+|  | Safety Needs | Lack of Security |
+|  | Belongingness and Love Needs | Lack of Friendship Support, Lack of Family Affection, Frustrated Romantic Relationship, Lack of Attention |
+|  | Esteem Needs | Frustrated Self-Esteem, Lack of Confidence |
+|  | Cognition Needs | Mismatched Cognitive Need, Incorrect Perception, Lack of Proper Guidance |
+| **Education Strategies** | School Education | Persuasive Education Method, Exemplary Demonstration Method, Emotional Edification Method, Conduct Guidance Method, Practical Training Method, Character Assessment Method, Appreciative Education Method, Learning Assistance Method |
+|  | Family Collaboration | Parenting Assistance Method, Home Learning Method, Parent-school Communication Method, Parent Volunteering Method, Decision-making Involvement Method, Community Collaboration Method |
+
 ## A1. Dialogue Example
 
 Below is an example of a multi-turn diagnostic dialogue between a teacher and the expert system:
@@ -171,4 +195,4 @@ TwoLevelAttribution/
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
