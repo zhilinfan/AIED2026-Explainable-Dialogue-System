@@ -64,19 +64,9 @@ Below is an example of a multi-turn diagnostic dialogue between a teacher and th
 |-----------|-------|
 | Number of Epochs | 3 |
 | Batch Size | 2 |
-| Total Training Steps | 1,587 |
 | Learning Rate Schedule | Cosine with warmup |
 | Peak Learning Rate | 5e-5 |
 
-### Training Results
-| Metric | Value |
-|--------|-------|
-| Final Training Loss | 0.263 |
-| Training Runtime | ~7,105 seconds (~2 hours) |
-| Training Samples/Second | 1.786 |
-| Total FLOPs | 6.90e+16 |
-
-The training loss decreased from ~3.6 at the beginning to ~0.26 at the end of training, showing stable convergence over 3 epochs.
 
 ## A3. Two-Level Attribution
 
