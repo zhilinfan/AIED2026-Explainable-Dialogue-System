@@ -68,13 +68,13 @@ Below is an example of a multi-turn diagnostic dialogue between a teacher and th
 | Peak Learning Rate | 5e-5 |
 
 
-## A3. Two-Level Attribution
+## A3. Hierarchical Attribution
 
-This section provides the implementation of the **Two-Level Attribution Method** for explaining Large Language Model (LLM) outputs in multi-turn dialogue systems.
+This section provides the implementation of the **Hierarchical Attribution Method** for explaining Large Language Model (LLM) outputs in multi-turn dialogue systems.
 
 ### Overview
 
-The two-level attribution method identifies which dialogue evidence contributes to LLM-generated outputs:
+The hierarchical attribution method identifies which dialogue evidence contributes to LLM-generated outputs:
 
 - **Level 1: Turn-Level Attribution** - Identifies the most influential dialogue turn using marginal likelihood gain
 - **Level 2: Sentence-Level Attribution** - Identifies key sentences within the selected turn
@@ -161,6 +161,7 @@ print(f"MRR: {metrics['mrr']}")
 |--------|-------------|
 | Hit@1 | Whether top-1 prediction matches ground truth |
 | Hit@3 | Whether ground truth appears in top-3 predictions |
+| Hit@5 | Whether ground truth appears in top-5 predictions |
 | MRR | Mean Reciprocal Rank of ground truth |
 
 ### Project Structure
@@ -169,7 +170,7 @@ print(f"MRR: {metrics['mrr']}")
 TwoLevelAttribution/
 ├── two_level_attribution/
 │   ├── __init__.py
-│   ├── dialogue_attributor.py    # Core two-level attribution
+│   ├── dialogue_attributor.py    # Core hierarchical attribution
 │   ├── tree.py                   # Tree data structure
 │   ├── context_ops.py            # Context operations
 │   ├── kvcache.py                # KV cache for efficiency
