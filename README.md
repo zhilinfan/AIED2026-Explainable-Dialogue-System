@@ -41,7 +41,7 @@ Below is an example of a multi-turn diagnostic dialogue between a teacher and th
 | 4 | Teacher | I'm not sure, but he was born with a harelip. |
 | 4 | Expert | What is the level of acceptance by his classmates or peers? |
 | 5 | Teacher | He gets along with his peers in general, no major conflicts, but no very close friends either. |
-| 5 | Expert | This is primarily **behavioral withdrawal**. The main reason is **lack of confidence**. I suggest the following strategies: **1. Family collaboration:** Communicate with parents to reduce conflict in his family and encourage them to show more care for the student. **2. Persuasive education:** Have conversations with him individually and you can make use of shared books or impactful stories to guide and encourage him. **3. Appreciative education:** Recognize and praise the student's efforts and progress to boost his confidence. |
+| 5 | Expert | Your student is primarily **behavioral withdrawal**, and the main reason is **lack of confidence**. I recommend the following intervention strategies: **1. Family collaboration:** Communicate with parents to reduce conflict in his family and encourage them to show more care for the student. **2. Persuasive education:** Have conversations with him individually and you can make use of shared books or impactful stories to guide and encourage him. **3. Appreciative education:** Recognize and praise the student's efforts and progress to boost his confidence. |
 
 ## A2. Fine-tuning Settings
 
