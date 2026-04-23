@@ -1,4 +1,28 @@
-# Digital Appendix
+<p align="center">
+  <img src="https://macos-typora-imagebed.oss-cn-beijing.aliyuncs.com/imgmacos/202604231412945.png" alt="AIED 2026 Seoul emblem" width="160">
+</p>
+
+<h1 align="center">Tell Me Why: Designing an Explainable LLM-based Dialogue System for Student Problem Behavior Diagnosis</h1>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/xxxx.xxxxx"><strong>Paper</strong></a> ·
+  <a href="https://your-project-page.com"><strong>Project Page</strong></a> ·
+  <a href="#quick-start"><strong>Quick Start</strong></a> ·
+  <a href="#citation"><strong>Citation</strong></a>
+</p>
+
+<p align="center">
+  Accepted at <strong>AIED 2026</strong><br>
+  <em>27th International Conference on Artificial Intelligence in Education</em><br>
+  Seoul, Republic of Korea · June 29–July 3, 2026
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Conference-AIED%202026-orange">
+  <img src="https://img.shields.io/badge/Status-Accepted-success">
+  <img src="https://img.shields.io/badge/License-MIT-blue">
+</p>
+
 
 ## A0. Theoretical Framework of Problem Behavior Diagnosis
 
