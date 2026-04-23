@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/xxxx.xxxxx"><strong>Paper</strong></a> ·
-  <a href="https://your-project-page.com"><strong>Project Page</strong></a> ·
-  <a href="#quick-start"><strong>Quick Start</strong></a> ·
   <a href="#citation"><strong>Citation</strong></a>
 </p>
 
