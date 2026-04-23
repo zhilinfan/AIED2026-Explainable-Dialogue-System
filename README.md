@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="https://macos-typora-imagebed.oss-cn-beijing.aliyuncs.com/imgmacos/202604231412945.png" alt="AIED 2026 Seoul emblem" width="160">
-</p>
+<table>
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <img src="https://macos-typora-imagebed.oss-cn-beijing.aliyuncs.com/imgmacos/202604231412945.png" alt="AIED 2026 Seoul emblem" width="110">
+    </td>
+    <td align="left" valign="middle">
+      <strong>AIED 2026</strong><br>
+      <sub>Seoul, Republic of Korea</sub>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Tell Me Why: Designing an Explainable LLM-based Dialogue System for Student Problem Behavior Diagnosis</h1>
 
