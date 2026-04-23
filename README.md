@@ -4,8 +4,8 @@
       <img src="https://macos-typora-imagebed.oss-cn-beijing.aliyuncs.com/imgmacos/202604231412945.png" alt="AIED 2026 Seoul emblem" width="110">
     </td>
     <td align="left" valign="middle">
-      <strong>AIED 2026</strong><br>
-      <sub>Seoul, Republic of Korea</sub>
+      <strong><sub>AIED 2026</sub></strong><br>
+      <strong>Seoul, Republic of Korea</strong>
     </td>
   </tr>
 </table>
