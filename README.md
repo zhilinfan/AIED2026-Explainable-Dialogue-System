@@ -51,19 +51,5 @@ Diagnosing student problem behaviors requires teachers to synthesize multifacete
 
 ## Repository Structure
 
-```text
-TwoLevelAttribution/
-├── two_level_attribution/
-│   ├── __init__.py
-│   ├── dialogue_attributor.py    # Core hierarchical attribution
-│   ├── tree.py                   # Tree data structure
-│   ├── context_ops.py            # Context operations
-│   ├── kvcache.py                # KV cache for efficiency
-│   └── model_utils.py            # Model utilities
-├── evaluation/
-│   ├── __init__.py
-│   └── metrics.py                # Hit@k, MRR, etc.
-├── examples/
-│   └── example_usage.py          # Usage examples
-├── requirements.txt
-└── README.md
+Please contact the first author (Zhilin Fan) for the code.
+
