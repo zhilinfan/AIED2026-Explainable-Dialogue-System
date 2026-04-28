@@ -13,7 +13,7 @@
 <h1 align="center">Tell Me Why: Designing an Explainable LLM-based Dialogue System for Student Problem Behavior Diagnosis</h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><strong>Paper</strong></a> ·
+  <a href="https://arxiv.org/abs/2604.22237"><strong>Paper</strong></a> ·
   <a href="#citation"><strong>Citation</strong></a>
 </p>
 
